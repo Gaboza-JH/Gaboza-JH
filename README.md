@@ -7,7 +7,7 @@
 
 ![reversal](https://capsule-render.vercel.app/api?type=slice&customColorList=0,2,2,5,30&reversal=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaboza-JH&theme=buefy)
 
 ![header](https://capsule-render.vercel.app/api?height=400&text=anybody%20there?&desc=Hello%20there!)
 
