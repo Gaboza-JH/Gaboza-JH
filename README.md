@@ -7,6 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaboza-JH&theme=buefy)
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj="whdgur3077">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whdgur3077)](https://solved.ac/whdgur3077))
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
